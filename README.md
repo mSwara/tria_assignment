@@ -19,7 +19,7 @@ GitHub Repository:  [https://github.com/mSwara/tria_assignment](https://github.c
 - Add new contacts with name, phone number (with country code), and email.
 - Edit existing contacts easily.
 - Delete contacts with a confirmation prompt.
-- Responsive UI with a green/blue theme and hover effects.
+- Responsive UI with a hover effects.
 - Action buttons: Call, Video Call, Message (simulated with alert messages).
 - Data persistence using `localStorage`.
 - Preloaded sample contacts for demonstration.
