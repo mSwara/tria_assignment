@@ -90,7 +90,6 @@ Vite – For fast bundling and development.
 React Icons – For action buttons
 
 
-
 ## ** Assumptions**
 Default country code for phone numbers is +91 (India), other options available.
 
