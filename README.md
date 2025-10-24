@@ -40,22 +40,29 @@ tria_assignment/
     ├── vite.config.js
     └── README.md
 
+
+
 ## **Installation & Running Locally**
 
 1. Clone the repository:
    
    git clone https://github.com/mSwara/tria_assignment.git
+
    cd contact-list
 
-3. Install dependencies:
+
+2. Install dependencies:
  
   npm install
+
 
 3. Run the development server:
 
    npm run dev
 
+
 4.Open in browser
+
 
 
 ## **Deployment on Vercel**
@@ -73,6 +80,7 @@ tria_assignment/
 4.Click Deploy. The live URL will be provided
 
 
+
 ## **Libraries Used** 
 
 React – For building the UI.
@@ -80,6 +88,7 @@ React – For building the UI.
 Vite – For fast bundling and development.
 
 React Icons – For action buttons
+
 
 
 ## ** Assumptions**
@@ -92,8 +101,10 @@ Contacts are sorted alphabetically by name.
 localStorage is used for data persistence.
 
 
+
 ## **Handling Ambiguity**
 Specific UI interactions (like hover effects, card styling) were chosen for usability and aesthetics.
+
 Loading states are minimal as data is stored locally; no API calls are used.
 
 
