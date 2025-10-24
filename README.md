@@ -43,17 +43,18 @@ tria_assignment/
 ## **Installation & Running Locally**
 
 1. Clone the repository:
-
-bash
-git clone https://github.com/mSwara/tria_assignment.git
+   
+   git clone https://github.com/mSwara/tria_assignment.git
 
 cd contact-list
 
 2. Install dependencies:
-npm install
+ 
+  npm install
 
 3. Run the development server:
-npm run dev
+
+   npm run dev
 
 4.Open in browser
 
@@ -65,21 +66,30 @@ npm run dev
 2.Click New Project and import this repository.
 
 3.Vercel usually detects Vite automatically:
+  
     Build command: npm run build
+    
     Output directory: dist
 
 4.Click Deploy. The live URL will be provided
 
 
 ## **Libraries Used** 
+
 React – For building the UI.
+
 Vite – For fast bundling and development.
+
 React Icons – For action buttons
+
 
 ## ** Assumptions**
 Default country code for phone numbers is +91 (India), other options available.
+
 Action buttons use alert() to simulate calls, messages, and video calls.
+
 Contacts are sorted alphabetically by name.
+
 localStorage is used for data persistence.
 
 
