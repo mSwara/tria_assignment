@@ -29,7 +29,7 @@ GitHub Repository:  [https://github.com/mSwara/tria_assignment](https://github.c
 ## **Project Structure**
 
 tria_assignment/
-└── contact_list/       ← main project folder
+└── contact_list/     
     ├── public/
     ├── src/
     │   ├── App.jsx
@@ -46,6 +46,7 @@ tria_assignment/
 
 bash
 git clone https://github.com/mSwara/tria_assignment.git
+
 cd contact-list
 
 2. Install dependencies:
