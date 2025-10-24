@@ -1,5 +1,5 @@
 # Tria Contact List Project
-Ituses **localStorage** to persist data between sessions.
+It uses **localStorage** to persist data between sessions.
 
 ---
 
