@@ -45,10 +45,9 @@ tria_assignment/
 1. Clone the repository:
    
    git clone https://github.com/mSwara/tria_assignment.git
+   cd contact-list
 
-cd contact-list
-
-2. Install dependencies:
+3. Install dependencies:
  
   npm install
 
